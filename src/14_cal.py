@@ -31,10 +31,6 @@ import sys
 import calendar
 from datetime import datetime
 
-import sys
-import calendar
-from datetime import datetime
-
 now = datetime.now()
 year = now.year
 month = now.month
